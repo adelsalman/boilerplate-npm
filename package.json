@@ -11,5 +11,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/boilerplate-npm.git"
+	},
+	"dependencies": {
+		"express": "^4.16.3"
 	}
 }
